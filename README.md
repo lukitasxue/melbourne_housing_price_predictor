@@ -24,7 +24,7 @@ streamlit run app.py
 ```
 
 ### Live Demo
-Visit the deployed app: [Your Streamlit Cloud URL]
+Visit the deployed app: [[Your Streamlit Cloud URL](https://melbournehousingpricepredictor.streamlit.app)]
 
 ## Features
 - **Property Type**: House, Townhouse, Unit, Apartment, Flat
